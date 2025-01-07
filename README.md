@@ -6,9 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at - My Portfolio
-
-- 📄 Know about my experiences:Resume
+- 👨‍💻 All of my projects are available at - 
+  <a href="https://saurabhpatle001.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+    <strong>My Portfolio</strong>
+  </a>
+  
+- 📄 Know about my experiences: 
+  <a href="https://your-resume-url.com" target="_blank" rel="noopener noreferrer">
+    <strong>Resume</strong>
+  </a>
 
 - 🔭 I’m currently working on **Scinus**
 
