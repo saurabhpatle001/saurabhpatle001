@@ -12,7 +12,7 @@
   </a>
   
 - 📄 Know about my experiences: 
-  <a href="https://your-resume-url.com" target="_blank" rel="noopener noreferrer">
+  <a href="[https://your-resume-url.com](https://drive.google.com/file/d/1bFbMnGo2625a5veVqcpwKV0m9LG7xZjY/view?usp=sharing)" target="_blank" rel="noopener noreferrer">
     <strong>Resume</strong>
   </a>
 
