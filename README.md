@@ -16,7 +16,7 @@
     <strong>Resume</strong>
   </a>
 
-- 🔭 I’m currently working on **Scinus**
+- 🔭 I’m currently working on **ALPHA**
 
 - 💬 Ask me about **MERN,**
 
