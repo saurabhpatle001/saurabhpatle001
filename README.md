@@ -16,10 +16,9 @@
     <strong>Resume</strong>
   </a>
 
-- 🔭 I’m currently working on **ALPHA**
-
-- 💬 Ask me about **MERN,**
-
+- 🔭 I’m currently learning Web Development using React/Next.js
+- 🤖   Working on my DSA skills in Java langauage.
+- 🤔   Exploring new technologies and developing websites.
 - 📫 How to reach me **saurabhpatle001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
